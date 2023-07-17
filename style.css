@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=Roboto:wght@300&display=swap');
+
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rebeccapurple;
+    height: 100%;
+    width: 100%;
+    font-family: 'Bigelow Rules', cursive;
+    font-family: 'Roboto', sans-serif;
+    
+}
+h1{
+    color: red;
+}
+
+ button{
+    width:  60px;
+    padding: 15px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.row {
+    margin: 8px 0;
+    width: 50vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.row input {
+    width: 167px;
+    font-size: 35px;
+    margin: 0;
+    padding: 15px 45px ;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
